@@ -4,7 +4,7 @@
 
 ## Hi there, this is: [System Analysis and Design & Software Systems & Software Architecture](https://en.wikipedia.org/wiki/Software\_architecture) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-#### Lanzhou University of Technology ch
+#### Lanzhou University of Technology
 
 软件系统与工程&软件体系结构
 
