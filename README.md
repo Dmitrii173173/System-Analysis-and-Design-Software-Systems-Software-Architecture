@@ -28,44 +28,9 @@ http://www.51testing.com/
 
 http://www.uimaker.com/
 
-<div class="arrow-down">
-    <span></span>
-    <span></span>
-    <span></span>
-</div>
-
-.arrow-down {
-    margin: 30px;
-}
-.arrow-down span {
-    display: block;
-    width: 30px;
-    height: 30px;
-    border-bottom: 5px solid #337AB7;
-    border-right: 5px solid #337AB7;
-    transform: rotate(45deg);
-    margin: -16px;
-    animation: arrow-down 2s infinite;
-}
-.arrow-down span:nth-child(2){
-    animation-delay: -0.2s;
-}
-.arrow-down span:nth-child(3){
-    animation-delay: -0.4s;
-}
-@keyframes arrow-down {
-    0%{
-        opacity: 0;
-        transform: rotate(45deg) translate(-20px,-20px);
-    }
-    50%{
-        opacity: 1;
-    }
-    100%{
-        opacity: 0;
-        transform: rotate(45deg) translate(20px,20px);
-    }
-}
+<p align="center">
+  <img src="https://emojicdn.elk.sh/🔽?style=apple&size=large&color=%23FF0000" alt="arrow">
+</p>
 
 <!-- Contents of SUMMARY.md -->
 [问题 / Questions](SUMMARY.md)
