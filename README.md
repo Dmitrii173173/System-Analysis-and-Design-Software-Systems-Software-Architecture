@@ -1,2 +1,23 @@
 # Software-Systems-Engineering-Software-Architecture
-软件系统与工程&amp;软件体系结构
+
+软件系统与工程&软件体系结构
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+参考教材及网站：
+
+1、谭火彬，UML2面向对象分析与设计， 清华大学出版社（第2版），2019
+
+2、John W. Satzinger, et al, System Analysis and Design (7th), Course Technology, Cengage Learning, 2015
+
+3、张友生 等，软件体系结构原理、方法与 实践(第3版)，清华大学出版社，2021
+
+参考网站：
+
+http://www.uml.org.cn/
+
+http://www.51testing.com/
+
+http://www.uimaker.com/
