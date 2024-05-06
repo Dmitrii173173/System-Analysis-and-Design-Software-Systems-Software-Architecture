@@ -1,4 +1,7 @@
 # Software-Systems-Engineering-Software-Architecture
+<h1 align="center">Hi there, this is: <a href="https://daniilshat.ru/" target="_blank">Software-Systems-Engineering-Software-Architecture</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Lanzhou University of Technology ch</h3>
 
 软件系统与工程&软件体系结构
 
