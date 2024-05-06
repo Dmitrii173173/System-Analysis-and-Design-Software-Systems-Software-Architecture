@@ -40,8 +40,7 @@ http://www.uimaker.com/
 
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Lanzhou University of Technology
-兰州理工大学
+Lanzhou University of Technology & 兰州理工大学
 
 
 
