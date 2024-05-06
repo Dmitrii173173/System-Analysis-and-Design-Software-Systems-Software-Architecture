@@ -8,9 +8,9 @@
 
 软件系统与工程&软件体系结构
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 参考教材及网站：
 
@@ -28,12 +28,10 @@ http://www.51testing.com/
 
 http://www.uimaker.com/
 
-<p align="center">
-  <img src="https://emojicdn.elk.sh/🔽?style=apple&size=large&color=%23FF0000" alt="arrow">
-</p>
+<div align="center">
 
-<!-- Contents of SUMMARY.md -->
+<img src="https://emojicdn.elk.sh/%F0%9F%94%BD?style=apple&#x26;size=large&#x26;color=%23FF0000" alt="arrow">
+
+</div>
+
 [问题 / Questions](SUMMARY.md)
-<!-- End of SUMMARY.md -->
-
-
