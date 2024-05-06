@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&lines=软件系统与工程软件体系结构&background=%23000000)](https://git.io/typing-svg)
+# 🎓 System Analysis and Design & Software Systems & Software Architecture
 
-<h1 align="center">Hi there, this is: <a href="https://en.wikipedia.org/wiki/Software_architecture#:~:text=The%20architecture%20of%20a%20software,the%20teams%20and%20people%20involved." target="_blank">System Analysis and Design & Software Systems & Software Architecture</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Lanzhou University of Technology ch</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7\&size=30\&lines=%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84\&background=%23000000)](https://git.io/typing-svg)
+
+## Hi there, this is: [System Analysis and Design & Software Systems & Software Architecture](https://en.wikipedia.org/wiki/Software\_architecture) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+
+#### Lanzhou University of Technology ch
 
 软件系统与工程&软件体系结构
 
@@ -25,6 +27,5 @@ http://www.uml.org.cn/
 http://www.51testing.com/
 
 http://www.uimaker.com/
-
 
 [Content](SUMMARY.md)
