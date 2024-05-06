@@ -28,7 +28,6 @@ http://www.51testing.com/
 
 http://www.uimaker.com/
 
-[问题](https://github.com/Dmitrii173173/System-Analysis-and-Design-Software-Systems-Software-Architecture/blob/main/SUMMARY.md#table-of-contents)
 
 <p align="center">
   <img src="https://emojicdn.elk.sh/➡️?style=apple&size=large&color=%23FF0000" alt="arrow">
@@ -37,3 +36,19 @@ http://www.uimaker.com/
 <!-- Contents of SUMMARY.md -->
 [问题 / Questions](SUMMARY.md)
 <!-- End of SUMMARY.md -->
+
+
+<!-- Contents of SUMMARY.md -->
+<details>
+  <summary><strong>Содержание</strong></summary>
+  
+  [Содержание](SUMMARY.md)
+
+</details>
+<!-- End of SUMMARY.md -->
+
+<br>
+
+<p align="center">
+  <img src="https://emojicdn.elk.sh/🔽?style=apple&size=large&color=%23FF0000" alt="arrow">
+</p>
