@@ -1,5 +1,5 @@
 # Software-Systems-Engineering-Software-Architecture
-<h1 align="center">Hi there, this is: <a href="https://daniilshat.ru/" target="_blank">Software-Systems-Engineering-Software-Architecture</a> 
+<h1 align="center">Hi there, this is: <a href="https://en.wikipedia.org/wiki/Software_architecture#:~:text=The%20architecture%20of%20a%20software,the%20teams%20and%20people%20involved." target="_blank">Software-Systems-Engineering-Software-Architecture</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Lanzhou University of Technology ch</h3>
 
