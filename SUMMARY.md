@@ -2,7 +2,7 @@
 
 * [🎓 System Analysis and Design & Software Systems & Software Architecture](README.md)
 
-## 一、简答题、综合分析与设计题
+## 🕵️‍♂️ 一、简答题、综合分析与设计题
 
 * [1.](yi-jian-da-ti-zong-he-fen-xi-yu-she-ji-ti/1..md)
 * [2.](yi-jian-da-ti-zong-he-fen-xi-yu-she-ji-ti/2..md)
@@ -74,3 +74,26 @@
 * [68.](yi-jian-da-ti-zong-he-fen-xi-yu-she-ji-ti/68..md)
 * [69.](yi-jian-da-ti-zong-he-fen-xi-yu-she-ji-ti/69..md)
 * [70.](yi-jian-da-ti-zong-he-fen-xi-yu-she-ji-ti/70..md)
+
+## 🎓 二、论述题
+
+* [1.](er-lun-shu-ti/1..md)
+* [2.](er-lun-shu-ti/2..md)
+* [3.](er-lun-shu-ti/3..md)
+* [4.](er-lun-shu-ti/4..md)
+* [5.](er-lun-shu-ti/5..md)
+* [6.](er-lun-shu-ti/6..md)
+* [7.](er-lun-shu-ti/7..md)
+* [8.](er-lun-shu-ti/8..md)
+* [9.](er-lun-shu-ti/9..md)
+* [10.](er-lun-shu-ti/10..md)
+* [11.](er-lun-shu-ti/11..md)
+* [12.](er-lun-shu-ti/12..md)
+* [13.](er-lun-shu-ti/13..md)
+* [14.](er-lun-shu-ti/14..md)
+* [15.](er-lun-shu-ti/15..md)
+* [16.](er-lun-shu-ti/16..md)
+* [17.](er-lun-shu-ti/17..md)
+* [18.](er-lun-shu-ti/18..md)
+* [19.](er-lun-shu-ti/19..md)
+* [20.](er-lun-shu-ti/20..md)
