@@ -36,6 +36,9 @@ http://www.51testing.com/
 
 http://www.uimaker.com/
 
+# 2022年考试
+https://www.cnblogs.com/wangzheming35/p/16269412.html
+
 <figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lanzhou University of Technology
