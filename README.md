@@ -42,6 +42,6 @@ http://www.uimaker.com/
 
 https://www.cnblogs.com/wangzheming35/p/16269412.html
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lanzhou University of Technology
